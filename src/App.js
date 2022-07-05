@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'tw-elements';
 import Home from './Pages/Home';
